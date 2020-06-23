@@ -1,6 +1,9 @@
 [workspace]
 
 members = [
-    "cli"
+    "cli",
+    "api-gateway",
+    "todo-api",
+    "packer"
 ]
 
