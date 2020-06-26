@@ -4,6 +4,7 @@ members = [
     "cli",
     "api-gateway",
     "todo-api",
-    "packer"
+    "packer",
+    "repository"
 ]
 
